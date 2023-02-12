@@ -7,6 +7,10 @@ Aeronautical Engineering from the same institution. A seasoned professional with
 top retail and marketplace clients and structuring problems to be solved through programming and data
 analysis.
 
+<div>  
+  <img aligh="left" alt="Michel-LinkedIn height="120" width="160" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</div> 
+
 <!--
 **mog-br/mog-br** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
