@@ -32,19 +32,22 @@ Here are some ideas to get you started:
 -->
 </div>
 
-  ##
+  #### <code style="color : blue"> Technologies and Frameworks </code>
+
+
+  
 <div>  
 <div style="display: inline_block"><br>
-  <img aligh="center" alt="Michel-Python" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Scikitn" height="60" width="80" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg">
-  <img aligh="center" alt="Michel-MySQL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
-  <img aligh="center" alt="Michel-PandasL" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Numpy" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Flask" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Pbi" height="48" width="66" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
-  <img aligh="center" alt="Michel-Aws" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Gcp" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
-  <img aligh="center" alt="Michel-Oracle" height="60" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
+  <img aligh="left" alt="Michel-Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Scikitn" height="50" width="50" src="https://github.com/scikit-learn/scikit-learn/blob/main/doc/logos/scikit-learn-logo-without-subtitle.svg">
+  <img aligh="center" alt="Michel-MySQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg">
+  <img aligh="center" alt="Michel-PandasL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Numpy" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Flask" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Pbi" height="50" width="50" src="https://github.com/microsoft/PowerBI-Icons/blob/main/SVG/Power-BI.svg">
+  <img aligh="center" alt="Michel-Aws" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Gcp" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original-wordmark.svg">
+  <img aligh="center" alt="Michel-Oracle" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg">
           
           
 </div>
