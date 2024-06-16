@@ -25,11 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div>
-  <img height="180em" align="left" src="https://github-readme-status.vercel.app/api?username=mog-br&show_icons=true&include_all_commits=true&count_private=true"/>
-<!--
-  <img align="right" src="https://github-readme-status.vercel.app/api/top-langs/?username=mog-br&layout=compact&langs_count=16"/>
--->
 </div>
 
   #### <code style="color : blue"> Technologies and Frameworks </code>
